@@ -1,0 +1,21 @@
+# Byte-compiled Java classes
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp 
+
+# Exclude build artifacts
+/build
+/bin
+/target
+*.jar
+*.war
+
+# IDE specific files
+/.idea
+*.iml
+/.project
+/.classpath

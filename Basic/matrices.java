@@ -1,3 +1,4 @@
+package Basic;
 import java.util.*;
 public class matrices {
     public static boolean search(int matrix[][], int key) {
