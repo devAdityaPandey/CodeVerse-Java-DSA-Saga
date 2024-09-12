@@ -1,0 +1,20 @@
+Bit-wise Operators : 
+
+Binary AND &
+Binary OR |
+Binary XOR ^
+Binary One's Complement ~
+Binary Left Shift <<
+Binary Right Shift >>
+
+*Rules for and or and not are same as you have already studied as true false and 0 1s...
+
+FORMULA FOR BINARY LEFT AND RIGHT SHIFT OPERATOR : 
+Binary Left Shift << : a << b : a * 2^b; 
+Binary Right Shift >> : a >> b : a/2^b;
+
+Operations : 
+
+Get ith bit 
+Set ith bit 
+Clear ith bit 

@@ -1,0 +1,38 @@
+SORTING : 
+
+Arrange in an order.
+
+Basic Algorithms : 
+
+Bubble Sort
+Selection Sort
+Insertion Sort
+Counting Sort (Advanced) 
+
+Bubble Sort : 
+
+{5, 4, 1, 3, 2} unsorted array
+{1, 2, 3, 4, 5} increasing order
+{5, 4, 3, 2, 1} decreasing order 
+
+Idea : 
+
+large elements come to the end of array by swapping with adjacent elements 
+
+Selection Sort : 
+
+Idea : 
+
+pick the smallest (from unsorted), put it at the beginning 
+
+Insertion Sort : 
+
+Pick an element(from unsorted part) & place in the right pos in sorted part 
+
+Inbuilt Sort : 
+
+import.java.util.Arrays;
+Arrays.sort(arr)
+O(n logn)
+
+Arrays.sort(arr, si, ei)
